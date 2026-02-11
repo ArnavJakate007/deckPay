@@ -1,8 +1,8 @@
 # DeckPay
 
-**The Ultimate Blockchain Finance Platform for Indian Students**
+**The Blockchain Finance Platform for Students**
 
-DeckPay is an Algorand-powered financial ecosystem designed to solve the unique challenges of Indian college life—extortionate payment gateway fees, delayed settlements, ticket scalping, and opaque fundraising. Built for the **Algorand India Hackathon 2026**.
+DeckPay is an Algorand-powered financial ecosystem designed to solve the unique challenges of college life—extortionate payment gateway fees, delayed settlements, ticket scalping, and opaque fundraising. Built for the **Algorand India Hackathon 2026**.
 
 ---
 
