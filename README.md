@@ -98,8 +98,6 @@ npm run dev
 ## Repository Map
 
 ```bash
-MLSC/
-├── projects/
 │   ├── contracts/   # Pure Python Smart Contracts (Smart-Signatures)
 │   └── frontend/    # React-Vite Frontend (The Core App)
 │       └── src/
@@ -109,11 +107,3 @@ MLSC/
 ```
 
 ---
-
-## Hackathon Submission Details
-
-- **Vision**: To eliminate financial friction in campus ecosystems.
-- **Impact**: Zero-fee peer-to-peer transfers for 40M+ students.
-- **Ease of Use**: No blockchain knowledge required for end-users.
-
-*Built for Indian Students by the DeckPay Team.*
