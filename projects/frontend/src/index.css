@@ -480,25 +480,24 @@ textarea {
 }
 
 img {
+  display: block;
   border-radius: var(--radius-md);
   box-shadow: 2px 2px 0px #FFFFFF;
   max-width: 300px !important;
   max-height: 300px !important;
   object-fit: cover;
-  /* Vibrant Frame */
+  /* Vibrant Frame - Using a cleaner approach */
   border: 4px solid transparent;
-  background: linear-gradient(135deg, #FF4D00, #0070f3) border-box;
-  -webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
-  -webkit-mask-composite: xor;
-  mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
-  mask-composite: exclude;
+  background:
+    linear-gradient(var(--bg-card), var(--bg-card)) padding-box,
+    linear-gradient(135deg, #FF4D00, #0070f3) border-box;
   padding: 0 !important;
+  margin: 10px 0;
 }
 
-/* Fallback/Simpler Vibrant Frame if mask is too complex for this context */
-img {
-  padding: 4px !important;
-  background: linear-gradient(135deg, #FF4D00, #0070f3);
+/* Ensuring images inside cards are visible */
+.card img {
+  max-width: 100%;
 }
 
 @keyframes spin {
