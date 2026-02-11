@@ -1,0 +1,122 @@
+{
+    "nav": {
+        "home": "Home",
+        "instapay": "InstaPay",
+        "smartsplit": "SmartSplit",
+        "fairticket": "FairTicket",
+        "clearfund": "ClearFund",
+        "dashboard": "Dashboard"
+    },
+    "header": {
+        "connect": "Connect Wallet",
+        "connecting": "Connecting...",
+        "disconnect": "Disconnect"
+    },
+    "home": {
+        "badge": "Built on Algorand 🇮🇳",
+        "title_1": "Campus Finance,",
+        "title_2": "Reimagined",
+        "subtitle": "Instant payments, smart bill splitting, NFT tickets & transparent fundraising — powered by blockchain, built for 40M Indian students.",
+        "cta_primary": "Connect Wallet to Start",
+        "cta_secondary": "Explore Features",
+        "stat_fee": "₹0.07",
+        "stat_fee_label": "Per Transaction",
+        "stat_speed": "4.5s",
+        "stat_speed_label": "Settlement Time",
+        "stat_saving": "₹1.17L",
+        "stat_saving_label": "Saved per Fest",
+        "stat_students": "40M+",
+        "stat_students_label": "Student Market"
+    },
+    "instapay": {
+        "title": "InstaPay™",
+        "subtitle": "Send ALGO instantly to any campus friend. WhatsApp-style speed, blockchain-grade security.",
+        "recipient": "Recipient Address",
+        "recipient_hint": "Paste the recipient's Algorand wallet address",
+        "amount": "Amount (ALGO)",
+        "amount_hint": "Minimum 0.001 ALGO",
+        "note": "Note (optional)",
+        "note_hint": "e.g., Mess bill January, Book payment",
+        "send": "Send Money",
+        "sending": "Sending...",
+        "history": "Recent Transactions",
+        "no_history": "No transactions yet",
+        "success": "Payment sent successfully!",
+        "error": "Transaction failed"
+    },
+    "smartsplit": {
+        "title": "SmartSplit™",
+        "subtitle": "Split expenses automatically with smart contract escrow. No more WhatsApp reminders.",
+        "create_group": "Create Split Group",
+        "total_amount": "Total Amount (ALGO)",
+        "num_members": "Number of Members",
+        "deadline": "Payment Deadline",
+        "penalty": "Late Penalty (%)",
+        "description": "Description",
+        "description_hint": "e.g., January Mess Bill, Trip to Goa",
+        "create": "Create Group",
+        "creating": "Creating...",
+        "contribute": "Pay Your Share",
+        "settle": "Settle & Collect",
+        "your_groups": "Your Groups",
+        "no_groups": "No groups created yet"
+    },
+    "fairticket": {
+        "title": "FairTicket™",
+        "subtitle": "Anti-scalping NFT tickets for college fests. Soulbound tokens ensure fairness.",
+        "create_event": "Create Event",
+        "event_name": "Event Name",
+        "event_desc": "Event Description",
+        "ticket_price": "Ticket Price (ALGO)",
+        "max_tickets": "Max Tickets",
+        "start_date": "Start Date & Time",
+        "end_date": "End Date & Time",
+        "soulbound": "Non-transferable (Anti-scalping)",
+        "create": "Create Event",
+        "buy_ticket": "Buy Ticket",
+        "verify": "Verify Ticket",
+        "events": "Live Events",
+        "no_events": "No events created yet"
+    },
+    "clearfund": {
+        "title": "ClearFund™",
+        "subtitle": "Transparent fundraising with milestone-based escrow. Every rupee tracked on-chain.",
+        "create_campaign": "New Campaign",
+        "campaign_title": "Campaign Title",
+        "campaign_desc": "Campaign Description",
+        "goal": "Fundraising Goal (ALGO)",
+        "milestones": "Number of Milestones",
+        "deadline": "Campaign Deadline",
+        "create": "Launch Campaign",
+        "donate": "Donate",
+        "release": "Release Milestone",
+        "campaigns": "Active Campaigns",
+        "no_campaigns": "No campaigns yet"
+    },
+    "dashboard": {
+        "title": "Dashboard",
+        "subtitle": "Real-time platform statistics and your activity overview.",
+        "total_volume": "Total Volume",
+        "total_txns": "Transactions",
+        "active_users": "Active Users",
+        "your_balance": "Your Balance",
+        "recent_activity": "Recent Activity",
+        "platform_stats": "Platform Statistics"
+    },
+    "common": {
+        "loading": "Loading...",
+        "error": "Something went wrong",
+        "retry": "Retry",
+        "cancel": "Cancel",
+        "confirm": "Confirm",
+        "close": "Close",
+        "algo": "ALGO",
+        "connect_first": "Please connect your wallet first",
+        "powered_by": "Powered by Algorand"
+    },
+    "footer": {
+        "built_with": "Built with ❤️ for Indian Students",
+        "powered_by": "Powered by",
+        "algorand": "Algorand"
+    }
+}
